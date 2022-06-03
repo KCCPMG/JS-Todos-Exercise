@@ -1,0 +1,24 @@
+body {
+  padding: 15%;
+  font-size: 20px;
+}
+
+#create-todo-form {
+  font-size: 30px;
+}
+
+#create-todo-form > * {
+  margin: 5px;
+}
+
+#create-todo-form > label > input{
+  margin-left: 10px;
+}
+
+span {
+  margin-right: 10px;
+}
+
+span.completed {
+  text-decoration: line-through;
+}
